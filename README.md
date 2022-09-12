@@ -1,4 +1,4 @@
-Description Responsive Website In HTML CSS JAVASCRIPT
+Description Responsive my product Website In HTML CSS JAVASCRIPT
 
 Resource Google font: https://fonts.google.com/
 
